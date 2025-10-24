@@ -2,7 +2,7 @@
 
 ## Introduction to Phishing
 
-Phishing is a form of cybercrime where attackers impersonate legitimate entities, such as banks, e-commerce platforms, or even well-known individuals, to deceive victims into disclosing personal, financial, or sensitive information. This attack method has evolved significantly over the years, with more sophisticated tactics being employed. The goal is typically to gain access to financial accounts, steal identities, or engage in fraud.
+Phishing is a form of cybercrime where attackers impersonate legitimate entities, such as banks, e-commerce platforms, or even well-known individuals, to deceive victims into disclosing personal, financial, or sensitive information. This attack method has evolved significantly over the years, with more sophisticated tactics being employed. The goal is typically to gain access to financial accounts, steal identities, or engage in fraud
 
 As phishing attacks have grown in complexity, it is crucial to understand how to recognize them and adopt strategies to protect personal and organizational data. This document delves into the various types of phishing, emerging trends, and best practices for identifying and avoiding these scams.
 
